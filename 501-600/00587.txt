@@ -1,0 +1,659 @@
+Chapter 587: Untitled
+
+Character: Weeping Soul
+
+Level: Level 39
+
+Occupation: Shadow Warrior, Advanced Weapon Refinement Master, King of Fist (Secondary Battle Class)
+
+Talent: Lord of the Stars
+
+Reputation: 75,650
+
+Power: None
+
+Money: 358,742 Gold, 28 Silver, 67 Bronze
+
+Basic Attributes: Power 6331, Constitution 2822, Agility 2040, Spirit 2165
+
+Special Attribute: Luck 38-10, Charm Max, Enlightenment 60, Tenacity 90, Focus 55
+
+Health: 1,92234 / 1,92234
+
+Mana: 121,532 / 121,532
+
+Physical Attack: 39745.
+
+Magic Attack: 18617
+
+Physical Defense: 536,46
+
+Magic Defense: 17538
+
+Speed: 5385
+
+Dodge: 80%
+
+Critical Hit: 70%
+
+Attack Speed: 150%
+
+Elemental Resistance: 28% Water (+ 30% Ice Resistance); 12% Fire; 10% Wind; 15% Thunder; 8% Earth; 30% Light; 80% Dark; 21% Poison
+
+Recovery Speed: 18% Health Points, total Health Points / second, 17% Mana Points / second
+
+Skills:
+
+[Probing Skill] had no consumption. It could detect information on ordinary monsters that were no more than five levels above it!
+
+[World Killer] was a special skill that did not require any consumption. It required a large amount of anger or negative emotions to activate. After activating it, all attributes would be increased by 100%. It would obtain an absolute calm state and would be immune to all control skills. The attack would have a real effect, and the bloody shield would be ineffective. The pain shield would be ineffective!
+
+[Life-Extinguishing Strike (Epic)] consumed 5000 Mana Points to activate on a single target. Use all your strength and throw the weapon in your hand, causing at least 300% damage. If the weapon is Bronze, then the damage will be + 100%. If the weapon is Silver, then the damage will be + 200%. If the weapon is Gold, then the damage will be + 400%, and there will be an additional Critical Hit effect. If the weapon is Epic, then the damage will be + 800%, and there will be an additional Critical Hit effect and a 50% chance of Crippling effect. If the weapon is Legendary, then the damage will be + 1600%, and there will be an additional Critical Hit effect and 100% chance of Crippling effect. 30% chance of killing in one hit! Cooldown: 10 minutes! (The weapon that is thrown cannot be retrieved.)
+
+[True Dragon Transformation] could only be awakened if one had the blood of a true dragon in one's body. It could only be activated when the blood boiled and the blood of a true dragon raged. Duration:???? Cooldown:???
+
+[Dragon's Might] has no consumption. You can only awaken if you have the blood of a True Dragon in your body. Passive effect: Monsters below level 30 will not take the initiative to attack you. Active effect: The power of a True Dragon is earth-shattering. It is regarded as your enemy's target. All attributes will be forcibly reduced by 20%. The same target can only take effect once. Note: After using this skill, the target's aggro will be firmly locked onto you.
+
+[Dragon Blood Burning Death] did not consume anything. It burned the True Dragon's blood in its body and awakened the Dragon's Might. Effect: All attributes + 199%, Attack + 199%, Defense + 199%, Speed + 199%, Attack Speed + 199%. Additional effects of madness, reduced pain, nullified by the attacker's pain shield. At the same time, Attack has a plundering effect. It can absorb the target's life force to replenish one's physical strength. Duration: 30 minutes, Cooldown: 3 days. After using the skill, one will enter a weakened state.
+
+[Blood Boiling (Special)] After activation, the blood would boil and enter an excited state. All attributes would be increased by 50%, and the basic blood absorption effect would be increased by 20%. At the same time, the blood absorption ability that the user already had would be doubled (up to 100%). The control over blood would be greatly increased. Any attack that came into contact with the surface of the body would activate the power of blood, rupture the blood vessels, and cause the blood to bleed. Once the target bled, the amount of blood would double, and the bleeding would not stop. As the amount of blood was increased, the total attributes would gradually decrease by a percentage! Duration: 5 minutes, Cooldown: 10 hours!
+
+[Heaven-Splitting Slash (Special)] was aimed in one direction. After accumulating power for three seconds, the user would use the ultimate slash with all his strength. Filled with faith and fighting spirit, it could even cut and destroy the sky. Attack strength + 1000%, with the Destruction attribute. The width and length of the slash would be determined by the user's strength! After using it, the user would enter a weakened state for 1 hour. Cooldown: 7 days!
+
+[Sky Quaking Fist] Special Skill: Gather all your strength and activate on a single target, causing 1000% damage. Additionally, there is a 100% serious injury effect, slight damage effect, 100% knockback effect, 80% knock-down effect, 50% knock-up effect! Cooldown: 24 hours! (After using this skill, there will be an hour of power depletion, and the strength will be forcibly reduced to 1 point!)
+
+[Second-Wood Body] Spirit Body of the Wood Spirit Body of the Five Elements. Flower Goddess Shattering Divine Spark. Awakening after using the ultimate blessing. Effect: Wood Element Affinity, Immunity to Instant Kill, Immunity to Dark Element debuff, Immunity to Curse. Skill Recovery Effect + 50%, Plant Alchemy Success Rate + 30%, Output + 20%, Explosion Rate + 5%!
+
+[Second-Wood Resuscitation] Effect 1: Cost 10,000 Mana, Increases the growth rate of plants by 30% (can only be used once for the same target); Effect 2: Consumes 10,000 Mana, restores your body to its peak state! Cooldown time: 24 hours! (Remove all DEBUFFs, eliminate injuries, full Mana bar hunger, etc.)
+
+[Pet Evolution (Epic)] can increase the grade of a combat pet by 1-2 (Epic). Duration: 5 minutes. Cooldown: 1 hour.
+
+[Triple Eagle Stomp] was a special skill. It had no consumption and could jump up to the highest X meter (X is the Class Advancement Number * 10). It could also borrow strength from the air twice to execute Triple Jump. Cooldown: 5 minutes!
+
+[Brutal Strike (Epic)] consumes 50 Mana Points to activate on a single target, dealing 500% damage, and it will definitely cause the target to be seriously injured. Attributes will be reduced by 10%, and there is a chance of causing an absolute serious injury. All attributes will be reduced by 20%! Cooldown: 3 minutes!
+
+[Brutal Strike (Epic)] costs 500 Mana Points to activate on a single target and slash three times on the target in a very short time. The damage is fixed at 200%. If the target's weak spot is attacked, the damage will be doubled. If the target's joint is attacked, the damage will be doubled and there is a high chance of triggering the Crippling effect. Cooldown: 3 minutes!
+
+[Extreme Speed Thrust (Gold)] consumes 100 Mana Points to activate on a single target. Attacks at least five times at an extremely fast speed. The basic damage of each attack is fixed at 120%. It can have a special effect! Cooldown: 30 seconds!
+
+[Sword Qi Rampage] Effect (1), consumes 500 Mana Points to activate on a single target within a 5-meter radius. Deals 300% strength damage and additional Bleeding Effect. Cooldown: 30 seconds! Effect (2). After activating, consumes 100 Mana Points per second. Every normal attack carries Sword Aura within a 2-meter radius. Damage intensity: 120%! Cooldown: None!
+
+[Blood Explosion Spell (Gold)] burns 50% of one's health, obtains 100% increase in physical attack power. Duration: 1 minute, Cooldown: 10 minutes!
+
+[Shadow Slash] consumes 50 Mana Points to activate on a single target, dealing 150% damage and has a certain chance of adding Bleeding effect! Cooldown: 3 seconds!
+
+[Shadow Spike] costs 100 mana to activate on a single target, dealing 150% damage. If the target is the enemy's back, the damage is doubled, and there is an additional 1 second stun effect! Cooldown: 5 seconds!
+
+[Shadow Assault] consumes 100 mana to activate on a single target. Within a three-meter radius, it can launch a surprise attack and instantly appear beside the enemy! Cooldown: 10 seconds!
+
+[Shadow Concealment] consumed 200 Mana Points and escaped into the shadows to deceive the enemy's line of sight. After entering this state, its speed would be -80%, and it would be attacked and actively attacked. The effect would be removed, and it would last for at most 60 seconds! Cooldown time: 5 minutes!
+
+[Shadow Escape] 's effect consumes 500 mana, transforms into a shadow, and teleports at will within a 5-meter radius! Cooldown: 3 minutes! Effect consumes 1,000 mana. Within a 3-meter radius, one can escape into the shadow of the enemy, immune to all physical and magical damage. Lasts up to 5 seconds. Cooldown: 10 minutes!
+
+[Shadow Clone] costs 1,000 mana points to create a clone that has 50% of the main body's strength. It is controlled by an AI and can be commanded! Lasts up to 5 minutes! Cooldown: 10 minutes!
+
+[Shadow Trick] consumed 100 Mana per second. It could control the enemy through the shadow. Whether or not the enemy could control the enemy depended on the mental strength of both parties! Cooldown: 1 hour!
+
+[Berserk Shadow Absolute Kill] locked onto a target or an area (maximum, 5x5), turned into an afterimage, and rapidly killed. Speed increased by 1000%, and every slash would deal 200% damage. Lasts 5 seconds! Cooldown: 5 hours!
+
+[Weapon Mastery (Gold)] Passive skill, increases damage by 15%!
+
+[Indestructible Battle Intent] cannot be upgraded. Passive effect: Physical Attack + 20%, Physical Critical Hit + 10%. Active effect: Only with a strong will to fight will it be activated. Will to fight will not be extinguished. Effects will last forever. Attack Power + X (X is the level * strength). Obtained 100% absolute Critical Hit. Attack Range + Xm (X is the level / 10 * Class Advancement number)! Cooldown: One day! (PS: Once the active effect is activated, you will enter an excited state. It greatly consumes your spirit and stamina. Please use it carefully.)
+
+[Roaming Snake Step (Gold)] Increases speed by 50%, enhances body coordination, and reduces the effects of inertia!
+
+[Two-Handed Proficiency (Special)] Passive effect: Can be equipped with two weapons at the same time and increase attack by 10%!
+
+[Space Jump (Special)] costs 100 Mana Points to travel through space, lock onto a space node, and jump to a place (Special place cannot jump). Cooldown: 1 hour!
+
+[Instant Slash (Epic)] LV10. Costs 200 Mana. Within a 10-meter radius, lock onto a single target and instantly move to the target's side and slash out. Deals 300% damage and has a chance to stun! Cooldown: 30 seconds!
+
+[Slash (Epic)] LV10. Costs 300 Mana. Use great strength to send the enemy flying, dealing 250% strength damage. Forced to stay in the air for at least 3 seconds! Cooldown: 3 minutes!
+
+…
+
+[Sky Weapon] 's only skill, Level 2 (Skywolf Force → Hunting Tiger Power, can be upgraded), can break through the sky with brute force, can suppress mountains and rivers. Passive effect, Strength + 20, Attack + 10%, Critical Strike Chance + 10%.
+
+Active Effect—Sirius: After activation, Attack Power increases by 100%, Critical Strike Chance increases by 100%. Duration: 60 seconds. Cooldown: 5 minutes!
+
+Active Effect—Hunting Tiger: After activation, imitate the Godly Tiger and let out a Tiger Roar, causing fear to the enemy for 5 seconds and reducing attack power by 30% for 60 seconds. Cooldown: 5 minutes!
+
+…
+
+[Holy Body] 's only skill, Level 2 (Ice Muscle Body → Jade Bone Body, can be upgraded), Holy Body, invulnerable to weapons and fire and water. Passive effect, Constitution + 20, Health + 10%, Defense + 10%.
+
+Active Effect—Ice Skin: After activation, the upper limit of Health Points will increase by 100%, the upper limit of Mana Points will increase by 100%, and the user will instantly recover to full state. Defense will increase by 100%, lasts for 60 seconds, cooldown is 5 minutes!
+
+Active Effect—Jade Bone: After activation, Defense + X (Self Defense Class Advancement * LV) Point. At the same time, immunity to poison below the Epic stage lasts for 60 seconds. Cooldown: 5 minutes!
+
+…
+
+[God's Flash] 's only skill, Level 2 (Leopard Sudden Speed → Wind Walk Speed → Upgradeable), flexibility, formless illusion. Passive effect, Agility + 20, Speed + 10%, Dodge + 10%.
+
+Active Effect—Leopard Rush: After activation, speed increases by 100%, evasion increases by 100%, lasts for 60 seconds, cooldown is 5 minutes!
+
+Active Effect—Wind Walk: After activation, Speed + X (Speed * Class Advancement * LV level) Points. Duration: 60 seconds. Cooldown: 5 minutes!
+
+…
+
+[Spiritual Wisdom] 's only skill, LV2 (Super Dimension Wisdom → Divine Domain Wisdom, Upgradeable), Divine Wisdom, Transcends All Spirits. Passive effect, Spirit + 20, Magic Attack + 10%, Magic Critical Strike + 10%.
+
+Active Effect—Super Dimension: After activation, magic attack power increases by 100%, magic critical hit rate increases by 100%, lasts for 60 seconds, cooldown is 5 minutes!
+
+Active Effect—God's Domain: After activation, Magic Attack + X (Magic Attack * Class Advancement number * LV) Point. Duration: 60 seconds. Cooldown: 5 minutes!
+
+…
+
+Holy Flame: Exclusive Skill, LV1 (Upgradeable), Holy Flame, add it to my body, burn the sky and boil the sea, kill gods and exterminate demons. Passive effect, Light Resistance + 50%, Darkness Resistance + 50%. Active effect: After activation, all attributes will be increased by 100% and obtain Holy attributes. Deals four times damage to Dark-type monsters. Immune to Light-type damage. Dark-type damage will be halved. Normal attacks will become Holy Attack. Attack range + 5 meters. Additional Attack Split effect (Splash damage is 80% of normal damage). Consumes 500 Mana per second. Duration: 3 minutes. Cooldown: 10 minutes!
+
+…
+
+[Steel Hammer]
+
+Type: Heavy Hammer
+
+Grade: Epic
+
+Requirement: 500 Strength
+
+Effect: Refining success rate + 30%, optimization rate + 10%, quality goods + 10%
+
+Additional Skill: [Steel Heavy Hammer] continuously hammered the embryo, making the shape of the embryo even more perfect. Under the weight of the hammer, the interior of the weapon would become even more compact. The sharpness of the weapon refined would increase, and the wear and tear rate would decrease. There was a certain chance of increasing the final product's attributes by 10% to 30%!
+
+Introduction: A heavy hammer forged from wrought iron. It was once owned by a divine craftsman of a generation. It is stained with a trace of spirituality. If used properly, it can greatly increase the success rate of refining weapons and increase the ability.
+
+…
+
+[Big Spade]
+
+Type: Spade
+
+Grade:???
+
+Requirement: None
+
+Effect: Excavation Efficiency + 50%
+
+Special Effect: [Gold Crusher Jade] Ignores metal, spirit stones, and other things below the Mythical stage. It can destroy metal, break jade, dig mountains, and break veins. It can destroy anything and everything! (This characteristic cannot be used in battle.)
+
+Introduction: Unknown origins. It is forged from special meteorite iron and contains unimaginable abilities. It can ignore all existences without divinity and is peerless.
+
+…
+
+[Spider Silk Launcher]
+
+Type: Wrist Gun
+
+Grade: Gold
+
+Requirement: None
+
+Effect: None
+
+Special Effect: [Spider Silk Launch] Launches the spider silk stored in the launcher!
+
+Additional Skill: [Inescapable Net] consumes a large amount of spider silk, spitting out spider webs to envelop the target!
+
+Introduction: It's a delicate and small thing. It's said to be a casual piece of artwork from the young age of the Divine Smith. It has extremely high usage value and collection value.
+
+…
+
+[Dragon God Command]
+
+Type: Token
+
+Grade:???
+
+Requirement: None
+
+Kidnapped: Weeping Soul!
+
+Effect: Four basic attributes + 200, Luck + 10, Charm + 20, Tenacity + 20, Enlightenment + 20, Focus
+
+Special Feature: Cannot be traded, stolen, dropped, or discarded
+
+Special Effect: [Imperial Order of the Dragon God] can only be obtained by the person acknowledged by the Dragon God. The person who holds the Imperial Order of the Dragon God has the same status as the Dragon Emperor. He is the most respected guest of the Dragon Race and is regarded as the Dragon Lord!
+
+Additional Skill: [Dragon Lord Summon] has been used up. Can summon a dragon to fight for you (Summoning Formula: Current Class Advancement + 1, Current Strength + 1). Lasts up to 10 minutes. Cooldown: 24 hours!
+
+Introduction: The token personally given by the Dragon God represents the supreme authority of the Dragon God. Even though it does not have any real power, its status is on par with the Dragon Emperor. It is the highest of the dragon race, and all dragons must show respect when they see it. At the same time, the person who possesses the Imperial Order of the Dragon God is given the title of "Dragon Lord" and has the right to summon guards.
+
+…
+
+[Soul Guiding Lamp]
+
+Type: Soul Lamp
+
+Grade:???
+
+Requirement: None
+
+Effect: Four basic attributes + 200, Luck + 10, Tenacity + 30, Enlightenment + 30
+
+Special Effect: [Soul Extraction] draws the undead, cleanses the evil, opens the door to the Underworld, and transcends the wraiths!
+
+Additional Skill: [Soul Lamp Spirit Voice] has been used up. Shaking the Soul Lamp, it can release soul sounds that shock the mind, intimidate the soul, confuse the mind, and cause a forced 3 seconds of confusion. At the same time, there is a chance to enslave the mind and let the target be used by you. Duration: 5 minutes, Cooldown: 30 minutes!
+
+Additional Skill: [Soul Summon] has no consumption. Passive: Can collect souls and store them to nourish souls. Active: Summon the souls in the Soul Guiding Lamp to fight for you. Maximum duration: 10 minutes! Cooldown for the same soul summon: 24 hours! (Current possessed soul: 1 [Ghost Face Corpse Demon Lively])
+
+Introduction: Soul Guiding Lamp. It is a treasure that can connect with the Netherworld. It possesses a mysterious and unfathomable special ability. It is said that it is a Buddhist treasure formed by a Buddhist mighty figure using the Mercy Curse and World Crossing Curse as its energy source and chanting scriptures for eighty-one days.
+
+…
+
+[Ghost Face (Fusion Energy: Greed)]
+
+Type: Mask
+
+Grade: Legendary
+
+Requirement: None
+
+Effect: Four basic attributes + 300, Luck -10, Tenacity + 20, Focus + 20
+
+Special Effect: [Ghost Face] Ghost Face, Deviant Face. Wearing the Ghost Face, one can freely change one's information and hide oneself!
+
+Additional Skill: [Ghost Face Doppelganger] has been used up. It can create a doppelganger created by you. It has independent information and identity. It can be controlled and commanded! Duration: Infinite (Consumes 500 Mana Points per second and doppelgangers are not allowed to leave 100 kilometers away from the main body). Cooldown: One day!
+
+Additional Skill: [Ghost Face Enslavement] has been depleted. It will create a ghost mask and put it on the target's face. It can be controlled and used by you. Duration: 5 minutes. Cooldown: 24 hours!
+
+Additional Skill: [Greed] is depleted. It can magnify the greed in the target's heart infinitely! Every target is limited to one use!
+
+Introduction: Ghostly faces are said to be based on human emotions. Joy, anger, sorrow, joy, greed, anger, infatuation, hatred, separation of love. It cannot be sought as the source, so it is sealed on the mask. After absorbing countless emotions, it gradually became evil and became a ghost mask. This is because it encompasses all human emotions. If you wear it, even if it is ominous, you can obtain other spiritual powers. You can disguise yourself as much as you want. There are thousands of faces and all kinds of hearts.
+
+…
+
+[Medal of Courage]
+
+Category: Medal
+
+Grade: None
+
+Requirement: None
+
+Kidnapped: Weeping Soul!
+
+Effect: Four basic attributes + 100, Luck + 5
+
+Special Feature: Cannot be traded, stolen, dropped, or discarded
+
+Special Effect: [Courage] 's heart is as hard as iron, and its courage is as hard as steel. The brave will be benevolent and fearless. After wearing it, it will ignore all pressure and be immune to all negative mental effects!
+
+Additional Skill: [Heart of Courage] has been depleted. After activation, all attributes will increase by 50%. Duration: 1 minute. Cooldown: 10 minutes!
+
+Additional Skill: [Light of the Brave] is used up. After activating it, infuse the Light of the Brave into the chosen equipment or skill and unleash double the effect! Cooldown: 24 hours!
+
+Introduction: The Medal of Courage. Its origin is unknown. It is said to be formed from the faith of the four Bravehearts who once guarded the Goddess of Fate. Only fearless and open-minded gentlemen can be recognized. It has extraordinary effects and heaven-defying power.
+
+…
+
+[Medal of Honor]
+
+Category: Medal
+
+Grade: None
+
+Requirement: None
+
+Temporarily bound: Weeping Soul!
+
+Effect: Four basic attributes + 80, Luck + 3, Charm + 5
+
+Special Feature: Cannot be traded, stolen, dropped, or discarded
+
+Special Effect: [Honor] Those who wear the Medal of Honor are all heroes of the dynasty. They have the identity of "heroes" and enjoy certain privileges. The system store will give a 70% discount to remove certain policy restrictions!
+
+Additional Skill: [Soul of Glory] has been used up. After activating it, you can summon the Hero Soul Imprint recorded in the Mercenary King's medal to fight for you. Every time you summon a random expert, the battle time is up to 10 minutes! Cooldown: 24 hours!
+
+Introduction: A Medal of Honor. Only heroes who have made great contributions to the Empire will be granted it. It is a symbol of heroism, a symbol of honor.
+
+(Sharpshooter—Goumang, Wind God—Fengmu, Fire God—Fire Wei, Water God—Water Sprite, Ghostly Shadow—Cold-Blooded, Spiritualist—Nainai, Fanatic—Astral Slash, Sacred Healing—Mingwei Dark Commandment—Named Shiori)
+
+…
+
+[Life Prayer (Flower Goddess)]
+
+Type: Necklace
+
+Grade: Legendary
+
+Requirement: None
+
+Effect: Constitution + 500, Spirit + 400
+
+Special Effect: [Light of Life] is affected by the rich life force. It regenerates 5% health every second and 5% mana every second!
+
+Special Effect: [Life Force] Life. Abhorred by death. Attacked by a death-type monster. Injury increased by 20%. Damage increased by 80% when attacking a dark-type creature. Negative effects have a large chance of triggering!!
+
+Additional Skill: [Blessing of the Goddess of Life] is blessed by the Goddess of Life. After dying, it will revive on the spot. Health Points will be restored to 80%. It can only take effect three times a day!
+
+Additional Skill: [Spirit of the Flower Goddess], the Flower Goddess after breaking the Godly Essence. Although her consciousness is gone, her energy is still there. Once activated, all attributes will be + 100%, Health Points recovery speed will be + 30% per second, Mana Recovery speed will be + 30% per second. Duration: 1 minute, Cooldown: 24 hours!
+
+Introduction: It's said to be a necklace worn by the Goddess of Life. It's tainted with the aura of the Goddess of Life. Whoever wears it will receive the blessings of the Goddess of Life. Their body will be filled with vitality and possess the heaven-defying ability to revive from the dead!
+
+…
+
+[Spiritual Water Pearl]
+
+Type: Spiritual Treasure
+
+Grade:???
+
+Requirement: None
+
+Durability: None
+
+Effect: Strength + 50, Constitution + 50, Agility + 50, Spirit + 50
+
+Special Effect: [Water Spirit] possesses the Water Spiritual Pearl, affinity with the water element, increases water damage by 80%, increases water resistance by 30%, and is proficient in water. It can move freely underwater without any obstruction, does not reduce abilities, ignores water pressure, and can control water veins easily!
+
+Additional Skill: [Water Vein Impact] consumes 1,000 Mana Points. Controlling the water element to form a whirlpool, it will create a violent water pressure attack on enemies within a 15x15 radius. It will cause 300% strength damage, with a fixed additional 800 points of water damage. It will cause an additional 80% damage to fire-type creatures. There is a certain chance of causing serious injury, cutting, freezing effect. Duration: 30 seconds. Cooldown: 30 minutes! (Depending on the quantity and quality of the water element, the effect will increase.)
+
+Additional Skill: [Water Separation Essence] Summons the Water Separation Liquid stored in the Water Meridian Spirit Pearl. Anyone who is contaminated by the Water Separation Pearl will be poisoned by the water and their body will fester. Normal medicines cannot cure it. Cooldown: Seven days!
+
+Introduction: A water-type Numinous treasure condensed from the spiritual energy of the four seawater meridians. It is extremely precious and is a supreme treasure in the eyes of water elementalists. It is said that this treasure is only controlled by the royal family of ancient waters and is passed down from generation to generation. Only the king can possess it. With it, one can easily control the water meridians and become the god of water.
+
+…
+
+[Death Bones]
+
+Type: Ring
+
+Grade: Epic
+
+Requirement: Level 35
+
+Durability: 30 / 30
+
+Effect: Health Points + 8000, Strength + 80, Constitution + 80, Agility + 80, Spirit + 80
+
+Special Effect: [Power of Death] Passive effect. Every attack will have the power of death, causing a fixed 3,000 points of death damage. There is a chance to trigger the corrosive effect.
+
+Additional Skill: [Summon Dead Bones] Summons a Skeleton Giant to fight. Maximum duration: 10 minutes. Cooldown: 1 hour!
+
+Introduction: The power of death is the source, and the hard bones are the foundation. Together, they build the skeleton of death. It is said to be an accessory worn by the Skeletal Emperor who led a skeleton army to break through a human city. It absorbs the power of death all year round and has extraordinary effects.
+
+…
+
+[Ice Spirit Ring]
+
+Type: Ring
+
+Grade: Legendary
+
+Requirement: Level 40
+
+Durability: 30 / 30
+
+Effect: Mana + 10,000, Constitution + 50, Spirit + 300
+
+Special Effect: [Power of Ice] Passive effect, + 30% ice resistance, -10% fire resistance. Each attack will have the power of the Ice Spirit, causing an additional 50% ice damage. At the same time, there is a chance to trigger a speed reduction or freezing effect.
+
+Additional Skill: [Ice Ring Barrier] Passive effect. When attacked, there is a chance to activate the Barrier and form an ice wall. It can completely block some of the damage. Active effect. When attacked by Xmi (X is the Class Advancement number * 10), activate the Barrier. The single-target damage does not exceed X points (X is your own mana). It is completely immune to damage. When attacked by Xmi (X is the Class Advancement number * 10), activate the Barrier. The single-target damage does not exceed X points (X is your own health points). Duration: 30 seconds! Cooldown: 24 hours!
+
+Additional Skill: [Forbidden Curses: Freeze for Ten Thousand Miles] activates all the ice elemental power contained in the Ice Spirit Ring. It will freeze everything within a 50x50-meter radius, causing 500% strong ice magic damage. At the same time, it will definitely freeze everything below the Legendary level for at least 5 seconds. Cooldown: 7 days! (After using the Forbidden Curses, all the effects of the Ice Spirit Ring will be sealed within 1 month!)
+
+Introduction: The ring worn by the legendary Snow Goddess contains an extremely terrifying ability. Because it has been nourished by the Snow Goddess' divine power for a long time, it has gradually been contaminated with a trace of ice-elemental laws. If it can absorb more ice-elemental origin energy, it can even break through the restrictions and become a Mythical existence.
+
+…
+
+[Undead Ring]
+
+Type: Ring
+
+Grade: Epic
+
+Requirement: Level 35
+
+Durability: 20 / 20
+
+Effect: Health + 5,500, Mana + 5,500, Constitution + 30, Spirit + 50
+
+Special Effect: [Wraith Entanglement] Passive effect. Every attack has a chance to decrease the enemy's dark resistance by 3%. Maximum decrease by 20%.
+
+Introduction: A ring that contains some power of death. It can give the wearer powerful vitality and mental strength.
+
+…
+
+[Death's embrace]
+
+Type: Earrings
+
+Grade: Epic
+
+Requirement: Level 18
+
+Durability: 20 / 20
+
+Effect: Strength + 100, Constitution -100, Agility + 100, Spirit + 100, Charm Points -10
+
+Special Effect: [Death's Gaze] has a strong suppressive effect on dark-type creatures. All attributes -20%, Damage Dealt + 50%, Damage Dealt + 100% to light-type creatures, Damage Dealt + 100% by light-type attacks. Attacks have a chance to trigger Fear.
+
+Special Effect: [Murmurs of Death] Dark Resistance + 30%, Light Resistance -20%, Critical Hit Rate + 20%, Penetration Rate + 10%, Instant Kill Rate + 5%. Attacks have a certain chance of triggering chaotic effects.
+
+Additional Skill: [God of Death's Embrace] consumes 10,000 mana points. When used on a single target, 100% chance of reducing all attributes by 30%, 20% chance of reducing all attributes by 50%, 1% chance of reducing all attributes by 90% (cannot be used simultaneously with other reduction skills). Cooldown: 24 hours!
+
+Introduction: Legend has it that a certain Great Wizard of Darkness gathered eighty-one great dark sorcerers to deal with the invasion of an enemy nation. Together, they used a supermagic spell to summon the Death God. The Death God descended from the Underworld with endless death aura, annihilating millions of soldiers of the enemy nation. However, it also brought disaster to the nation. In order to prevent the destruction of the nation, the Great Wizard of Darkness exhausted its source and used its own soul as a sacrifice to expel the Death God back to the Underworld. It also condensed the death aura brought by the Death God and sealed it in an earring. It is called the embrace of the Death God!
+
+…
+
+…
+
+[Spiritual Light Cape]
+
+Category: Cloak
+
+Grade: Epic
+
+Requirement: Level 30
+
+Effect: Health + 5000, Mana + 5000, Strength + 65, Constitution + 65, Agility + 65, Spirit + 65
+
+Special Effect: [Spiritual Light] uses Spiritual Light to charge and obtain special effects. Cost: 1. Reduces 50% damage for 10 seconds.
+
+Consumes 2 and enters a portable invisibility state. Speed will decrease by 50%. When attacked or actively attacked, the state will disappear.
+
+He spent five to eliminate all negative effects and instantly recovered 20,000 Health Points.
+
+After spending 10 units, it could fly below 50 meters in the air for up to 3 minutes! Current energy charge: 10 / 10! (Recovery of 1 charge per hour)
+
+Introduction: A cloak filled with spiritual energy. It used to be the equipment of the ten sages under the command of the Goddess of Fate, the Radiant Sage. After the war between gods and devils, the Radiant Sage fell. Other than the Radiant Scepter, which was kept in the temple, the other parts were scattered everywhere. Until now, it has not been found.
+
+…
+
+[Phantom ribbon]
+
+Type: Belt
+
+Grade: Epic
+
+Requirement: None
+
+Effect: Health + 2000, Mana + 2000, Strength + 50, Constitution + 50, Agility + 50, Spirit + 50
+
+Special Effect: [Phantom Space] contains 1000 backpack spaces!
+
+[Phantom Charm] + 20 Charm!
+
+[Additional Skill] Illusionary Spirit Bewildering Formation: Consumes 1,000 Mana Points and can be used on the target (the target can be single or group), forcing the target to enter a hallucinatory effect for at least 3 seconds, up to 30 seconds. There is a certain chance of causing a severe hallucination, causing fear to the target! Cooldown: 1 hour!
+
+Introduction: The Illusionary Seven-Colored Belt is said to be made from the Origin Energy of a spiritual object known as the Seven-Colored Illusion Butterfly. It was fused into a Spatial Origin Stone and then forged from seven-colored elemental energy. During the Great War between the Ancient Gods and Devils, it once caused 100,000 soldiers of the Demon Army to fall into an illusory realm, shocking the world with its battle. Afterwards, the wielder was assassinated by the Demon Race, and their whereabouts are unknown.
+
+…
+
+Weapons—
+
+[Coiling Dragon Li Water (+ 10)]
+
+Type: Single-handed Sword
+
+Grade: Mythical
+
+Requirement: Warrior
+
+Durability: 100 / 100
+
+Effect: Attack + 28,000 (+ 16,000), Strength + 1,800
+
+Enhancement Reward: + 100% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 50% chance of doubling the damage of the attack!
+
+Special Effect: [Dragon Soul] Coiling Dragon has a living dragon soul resting in the water. When attacking, there is a certain chance of triggering the remaining dragon's might in the dragon soul. It will shock the enemy and cause a Stun effect for at least 5 seconds. The Snake Race's effect will be doubled. Immunity above the True Dragon! (The same target can only be effective once)
+
+Special Effect: [Water Parting] Coiling Dragon Parting Water contains the power of Water Parting. Physical attacks can be transformed into water-type attacks (can be deactivated). At the same time, when attacking, there is a chance to inflict Water Parting Damage on the target, reducing their resistance to water-type attacks to a certain extent. This will cause the target to be eaten by the Water Parting Water. The body will become heavier and the recovery effect will be weakened (can be increased continuously)!
+
+Special Effect: [Dragon Fire] Coiling Dragon Water contains the fire of a True Dragon. Physical attacks can be turned into fire-type attacks (can be deactivated). At the same time, when attacking, there is a chance to burn the target with dragon fire, reducing a certain amount of fire-type resistance and forcibly burning 8,000 Health Points!
+
+Additional Skill: [Dragon Soul Impact] consumes 5,000 Mana. Activates the dragon soul from the Coiling Dragon Water. Attacks energy in a straight line 30 meters ahead, dealing 1000% damage. There is a chance of crippling, intimidating, and fearful. Cooldown: 2 hours!
+
+Additional Skill: [Forbidden Spell: Ice and Fire Dual Dragon Dance] consumes 10,000 Mana Points. Activates the Water Fire Dragon Soul from the Coiling Dragon Water. Activates the Water and Fire Fusion Forbidden Spell. Explode within a 50 * 50 radius area, causing 800% basic damage. At the same time, there is an additional 10,000 points of Scorching Flames per second. 10,000 points of Freeze Damage. Duration: 30 seconds. Cooldown: Seven days!
+
+Additional Skill: [Forbidden Curse: Triple Dragon Drama Bead] consumes 100,000 Mana Points to activate the Metal, Water and Fire Dragon Souls of the Coiling Dragon Water, manifesting the Dragon Transformation Soul. With the power of Heaven and Earth, lock onto a target and use it as a "bead". It will release energy and cause 3000% damage! Cooldown: Seven days! (Note: Due to the high energy consumption of this skill, you cannot use energy for the next three days.)
+
+Endowment: [Ascending Dragon Slaying] is a special ability formed by the power of the stars. It has a + 500% damage to dragons, + 1000% damage to serpents, reduces 20% of the abilities of the scaled warriors in the world, and has an additional effect of Dragon Slaying. 30% chance of killing in one strike!
+
+Introduction: Unknown origins. It's said to be the weapon of a Heavenly God. It uses Li Water, one of the top ten mystical waters as its main energy source. Sealed inside is the soul of a True Dragon, hence its name, Coiling Dragon Li Water.
+
+…
+
+[Duality Dao Sword (+ 10)]
+
+Type: Single-handed Sword
+
+Grade: Legendary
+
+Requires: Level 40, Warrior, Mage
+
+Durability: 100 / 100
+
+Effect: Physical Attack + 3500 (+ 3200), Magic Attack + 3500 (+ 3200), Strength + 150, Spirit + 150
+
+Enhancement Reward: + 80% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 50% chance of doubling the damage of the attack!
+
+Special Effect: [Duality] Duality user, yin and yang. The Duality Dao Sword contains the Dao of yin and yang. It can freely switch attack attributes, turning physical attacks into magic damage, turning magic attacks into physical damage!
+
+Special Effect: 【 Taiji 】 gives birth to two opposing forces. The two opposing forces can be turned back into Taiji. Taiji practitioner, there is yang in yin and yang in yang. There is a chance to reduce 50% of the attack and return the damage to the enemy!
+
+Additional Skill: [Dual Sword Realm] consumes 10,000 Mana Points, activates the Yin Yang Fish, activates the Sword Realm, and attacks all targets within a 20x20 radius indiscriminately. Damage is 250% Physical Damage + 250% Mana Damage. There is a chance to add a Confusion effect. Cooldown: 10 hours!
+
+Additional Skill: [Forbidden Curse: Chaos Barrier] consumes 20,000 Mana Points, 50 * X in the longitudinal direction, 10 * X (X is the player's Class Advancement number) to form a barrier. Within the Chaos Barrier, everything returns to Chaos Limitless, sealing all energy! Duration: X second (X is the player's level). Cooldown: Seven days!
+
+Introduction: Duality Dao Sword, a Dao Weapon forged according to the concept of Yin and Yang. Originally, it was just an ordinary Numinous Treasure Dao Weapon, but due to unknown reasons, it evolved and became a Dharma treasure. It reversed the initial phase of Yin and Yang—the power of chaos. Furthermore, it awakened a forbidden spell and evolved into a legendary weapon!
+
+…
+
+[Hundred Wars Blood Soldier (+ 10)]
+
+Type: Single-handed Sword
+
+Grade: Epic
+
+Requirement: Warrior
+
+Durability: 50 / 50
+
+Effect: Attack + 3360 (1600), Strength + 100
+
+Enhancement Reward: + 50% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 30% chance of doubling the damage of the attack!
+
+Special Effect: [Hundred Battles] has been through hundreds of battles and is invincible. During battle, focus + 5, willpower + 10. As the battle goes on, physical attack power will increase by 1% every 1 second, up to 100%!
+
+Special Effect: [Blood Soldier] has been stained with a large amount of blood. It has been reduced from a Spirit Soldier to a Blood Soldier. When unsheathed, it will drink blood. + 30% Life-Steal effect!
+
+Additional Skill: [Backwater War] consumes 80% of its current health points to supply [Hundred Battles Blood Soldier]. Awakens [Blood Demon] buff, increases 200% physical attack power, 100% Life-Steal effect, + 10 meters attack range! After activating this state, [Hundred Battles Blood Soldier] is unable to use skills and can only use normal attacks. At the same time, the normal attacks have a certain fear, shock, and tearing chance! Duration: 5 minutes! Cooldown: 24 hours!
+
+Endowment: [Army Breaks Through] is a special ability formed by the power of the stars. The damage is increased by 100% for a long time. When battle intent is released, the damage will be increased by another 100%. At the same time, all attacks have the power of the Army Breaks Through. One: Break. It has the effect of breaking. Two: Break. Ignore the target's defense!
+
+Introduction: Originally, it was a spirit weapon. It was forged by the royal family as a Grandmaster Blacksmith. The emperor bestowed it to a general under his command. Because there were too many massacres on the battlefield, it drank blood and gradually became a blood soldier. Only a general filled with murderous aura could control it.
+
+…
+
+Over his head—
+
+[Obsidian Crown (+ 10)]
+
+Grade: Epic
+
+Requirement: Level 35, Physical Class
+
+Durability: 20 / 20
+
+Effect: Physical Defense + 1800 (+ 1600), Magic Defense + 1000 (+ 1600), Constitution + 45, Strength + 30
+
+Enhancement Reward: + 50% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 20% Defense!
+
+Special Effect: [Obsidian] increases vision by 100 meters. It has night vision.
+
+Additional Skill: [Eye of Obsidian] opens the Magic Eye at the center of the Crown of Obsidian. The targeted enemy will be disturbed mentally and fall into one of the three seconds of confusion, fear, and stun effects. Cooldown time is 5 minutes!
+
+Additional Skill: [Evil Infant Ghost Eyes] is used on a single target. There is a high chance that it will enter a state of confusion, unable to differentiate friend from foe! Duration: 3 minutes! Cooldown: 1 hour!
+
+Introduction: The crown made of obsidian as the core. Because of the corrosion of death energy all year round, obsidian has become evil. If you look at it directly, you will fall into mental disorder.
+
+…
+
+On his body…
+
+[Glass Robe (+ 10)]
+
+Grade: Legendary
+
+Requirement: Level 40
+
+Durability: 60 / 60
+
+Effect: Physical Defense + 3000 (+ 3200), Magic Defense + 3000 (+ 3200), Constitution + 300
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Glazed Titan], Indestructible Body, increases Defense by 50%. When attacked, there is a chance for Glazed Titan Body to reduce damage by 80%!
+
+Additional Skill: [Glazed Golden Body] consumes 10,000 Mana Points, grants absolute defense, reduces 100% damage, lasts for 10 seconds! Cooldown: 1 hour!
+
+Additional Skill: [Forbidden Curse Glazed Titan] consumes 20,000 Mana Points. Summons the power of Vajra from the Dao Sect to strengthen the body. Health Points recovery speed + 20% / second, Mana Recovery speed + 20% / second, Defense + 500%, immunity to all DEBUFFs, lasts for 1 minute! Cooldown time: 7 days!
+
+Introduction: Legend has it that the Daoist robe is made of glass from outer space. It has the support of 49 types of formations. Its defense is extremely shocking. It is invulnerable to swords and spears, impervious to fire and water, impervious to all poisons. It has evolved due to an unknown reason. It has awakened the power of Vajra and activated a forbidden spell. It has evolved into a legendary armor!
+
+…
+
+In his hands…
+
+[Dragon Scale Handguard (+ 10)]
+
+Grade: Epic
+
+Requirement: Level 35, Physical Class
+
+Durability: 20 / 20
+
+Effect: Defense + 960 (+ 1600), Strength + 80, Constitution + 50
+
+Enhancement Reward: + 50% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 20% Defense!
+
+Special Effect: [Dragon Scale] + 20% Defense, slightly increases the strength and flexibility of the arm!
+
+Additional Skill: [Dragon Fist] consumes 1,000 Mana Points. It is used on a single target. Gather strength and punch out, causing 500% strength damage. Additional knockback effect! Cooldown: 5 minutes!
+
+Introduction: Legend has it that the handguard is made from the dragon scales of a true dragon. The dragon scales contain a little bit of dragon strength. It can increase the arm greatly and give it strength.
+
+…
+
+Beneath his feet—
+
+[Shadow Ghost Boots (+ 10)]
+
+Grade: Epic
+
+Requirement: Level 35, Physical Class
+
+Durability: 30 / 30
+
+Effect: Defense + 1500 (+ 1600), Constitution + 45, Agility + 80
+
+Enhancement Reward: + 50% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 20% Defense!
+
+Special Effect: [Shadow] Movement Speed + 50%. When walking and running, it is like a ghost shadow, making no sound.
+
+Special Effect: [Ghost Steps] + 50% chance of dodging. Light steps, like a ghost. When moving, there is a chance to leave behind afterimages to confuse the enemy.
+
+Additional Skill: [Shadow Ghost's Block] consumes 1,000 mana, activates the Shadow Ghost Step, increases the dodging rate to 80% (cannot coexist with other evasion attributes and evasion skills), increases speed by 300%, and the maximum number of Shadow Ghost Doppelgangers can be created in action (no attacking ability or physical body, dissipates when attacked). Use to confuse the enemy. Duration: 1 minute, Cooldown: 10 minutes!
+
+Introduction: Unknown origins. It used to be the King of Assassins' equipment. Wear it and increase your movement skills. Be flexible. When you move at a high speed, you will be surrounded by ghosts. No one can tell what is real and what is fake.
