@@ -1,0 +1,195 @@
+Chapter 759: Untitled
+
+Equipment:
+
+Weapons—
+
+[Duality Dao Sword (+ 10)]
+
+Type: Single-handed Sword
+
+Grade: Legendary
+
+Requires: Level 40, Warrior, Mage
+
+Durability: 100 / 100
+
+Effect: Physical Attack + 3500 (+ 3200), Magic Attack + 3500 (+ 3200), Strength + 150, Spirit + 150
+
+Enhancement Reward: + 80% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 50% chance of doubling the damage of the attack!
+
+Special Effect: [Duality] Duality user, yin and yang. The Duality Dao Sword contains the Dao of yin and yang. It can freely switch attack attributes, turning physical attacks into magic damage, turning magic attacks into physical damage!
+
+Special Effect: 【 Taiji 】 gives birth to two opposing forces. The two opposing forces can be turned back into Taiji. Taiji practitioner, there is yang in yin and yang in yang. There is a chance to reduce 50% of the attack and return the damage to the enemy!
+
+Additional Skill: [Dual Sword Realm] consumes 10,000 Mana Points, activates the Yin Yang Fish, activates the Sword Realm, and attacks all targets within a 20x20 radius indiscriminately. Damage is 250% Physical Damage + 250% Mana Damage. There is a chance to add a Confusion effect. Cooldown: 10 hours!
+
+Additional Skill: [Forbidden Curse: Chaos Barrier] consumes 20,000 Mana Points, 50 * X in the longitudinal direction, 10 * X (X is the player's Class Advancement number) to form a barrier. Within the Chaos Barrier, everything returns to Chaos Limitless, sealing all energy! Duration: X second (X is the player's level). Cooldown: Seven days!
+
+Arcane Energy: [Chaos Yin-Yang Chaos]. It is formed by using the power of the sun and the moon. The Astral Spirit is the sun and the moon. It has the power of extreme yin and the power of extreme yang. When using light magic and dark magic, its power will double. The effect will double. It will reduce the power of light and dark magic by 50%!
+
+Introduction: Duality Dao Sword, a Dao Weapon forged according to the concept of Yin and Yang. Originally, it was just an ordinary Numinous Treasure Dao Weapon, but due to unknown reasons, it evolved and became a Dharma treasure. It reversed the initial phase of Yin and Yang—the power of chaos. Furthermore, it awakened a forbidden spell and evolved into a legendary weapon!
+
+[Blood Demon Sword (Origin lost, energy incomplete)]
+
+Type: Single-handed Sword
+
+Grade: Legendary
+
+Requirement:???
+
+Kidnapped: Weeping Soul!
+
+Durability: 100 / 100
+
+Effect: Attack + 10000 (+ 8000), Strength + 500
+
+Enhancement Reward: + 80% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 50% chance of doubling the damage of the attack!
+
+Special Feature: Cannot be traded, stolen, dropped, or discarded
+
+Special Effect: Blood Devouring + 30% Life-Steal!
+
+Special Effect: For every monster killed by [Blood Servant], there is a 50% chance of turning it into a Blood Servant to fight for you! (This effect is ineffective against the Boss. Blood Servants can only exist for up to 10 minutes, the maximum number is 10.)
+
+Special Effect: The wound caused by the Blood Devil Sword cannot be healed. The bleeding effect is five times normal. At the same time, the target will be infected by the blood poison. Regular recovery will not be effective!
+
+Additional Skill: [Blood Drinking, Bloodline Seething] is fed to the Blood Demon Sword with x% of your health points, obtaining x% Life-Steal effect. At the same time, the effect of [Blood Demon] is doubled, and your attack power is increased by 200%! Duration: 5 minutes, Cooldown: 24 hours! (Note: After using it, you will receive "Broken Blood" DEBUFF, your health points will be forcibly reduced to 1 point for 1 hour.)
+
+Additional Skill: [Blood Demon Descends, Sole Supremacy] uses one's own X level as a sacrifice, transforming into Blood Demon Descends, obtaining double X's current Class Advancement, multiplying all attributes. At the same time, the effect of [Blood Demon] is increased by ten times! Duration:??? (Consumes 1% of one's total health points per second) Cooldown: 30 days! (Note: After using this skill, the Blood Demon Sword will be sealed within 30 days and cannot be used.)
+
+Endowment: [Rahu Godkiller] Rahu, also known as the capital planet of Ji Du. He is the founder of the Demon Race and is known as the Demon Ancestor. His damage to the Light Race or the God Race is + 1000%. He has a powerful deterrent effect on the Demon Race. All his attributes are reduced by 30%, and his damage is increased by 500%. He possesses the power of the Godkiller. He can break through any barrier formed by Godly Force, cages, formations, domains, and so on. He has an extremely terrifying destructive power and weakening power towards the body of the Demon God!
+
+Introduction: Blood Demon Sword. It is said to be the weapon of the arrogant Demon Envoy Blood Demon, the leader of the seven Demon Envoys of the Demon Race. It extracts earthheart lava iron from the blood sea of the abyss, complementing it with the blood essence and soul of eighty-one experts of different races. In addition to the blood of millions of living beings, it has been soaked in blood for a hundred years. After completely absorbing the resentment and evil of the blood sea, it took ten years to forge a supreme Demon Armament. When it attacked the Fate Continent, Blood Demon destroyed hundreds of countries and thousands of races. It was invincible. Because it absorbed the blood of billions of living beings, it suffered from heavenly punishment, causing its strength to greatly decrease and its source to be lost. After the Demon Race suffered a great defeat, Blood Demon fled back to the Demon Realm with its broken arm, and the Blood Demon Sword also disappeared.
+
+[Sacred Dragon Sword]
+
+Type: Single-handed Sword
+
+Grade: Legendary
+
+Requirement: Warrior
+
+Durability: 100 / 100
+
+Effect: Attack + 12000 (+ 8000), Strength + 800, Constitution + 500
+
+Enhancement Reward: + 80% Physical Attack (This condition is limited to increasing the weapon's attack) + 10 to Enhancement: When attacking, there is a 50% chance of doubling the damage of the attack!
+
+Special Effect: [Dragon Tooth] is a divine sword forged with the Holy Dragon's Tooth as the main material. When it attacks, it will have 5,000 points of tearing damage and additional bleeding effect. 30% penetration effect (Ignore 30% physical defense)!
+
+Special Effect: [Dragon's Fury] The dragon energy that the sacred dragon participated in will be released during the attack. There is a chance to give the target a stun effect for 3 seconds! (The same target can only be used once)
+
+Additional Skill: [Holy Dragon Slaying Slash] consumes 5,000 Mana Points to activate on a single target. In a very short period of time, slash 7 times on the target. The damage per strike is fixed at 300% strength, with additional breaking effect! Cooldown: 1 hour!
+
+Additional Skill: [Holy Dragon Annihilation Slash] consumes 10,000 Mana Points to activate on a single target. Strength accumulation: 1-10 seconds. Attack Range: 5-50 meters. Attack Power: 300% -3,000%. Strength accumulation: 10 seconds. Attack: 100% with annihilation effect! Cooldown: 24 hours!
+
+Arcane Energy: [Heavenly Slaughter Absolute] Heavenly Slaughter Star, one of the 36 Heavenly Constellations, the Star Spirit with the strongest killing intent. It uses killing to prove its dao, peerlessly domineering, endless killing intent, Absolute Kill effect: Every second of battle increases one's attack power by 1%, up to a maximum of 500%. Every time it kills a living being, it can absorb 1% of its physical strength to nourish itself. When its killing aura is condensed to its peak (Attack Power increased to 500%), every attack will carry the Absolute Kill BUFF, causing the target to experience the greatest fear in their heart, dying in despair, with endless killing intent, fighting endlessly!
+
+Introduction: Sacred Dragon, Sacred Dragon. Originally a member of the Light Dragon Clan, because he was unable to save his companions, he was reduced to a Blood Dragon in despair. From then on, he used light to redeem himself and blood to slaughter enemies. He led the Dragon Clan to defeat countless races and wars, establishing the Dragon Clan's position as the overlord of the world. He was the third Dragon Emperor of the Dragon Clan and was known as the Sacred Emperor by the Dragon Clan. He was known as the Sacred Emperor! The weapon condensed from his life's battles, even though his True Spirit did not exist because of his death and its power was greatly reduced, it was still a sacred item of the Dragon Clan. Wearing it, one could not be a hero or supreme being of the Dragon Clan!
+
+Armor—
+
+[Saint Dragon God Armor (+ 10)]
+
+Grade: Legendary
+
+Requirement: Warrior
+
+Durability: 80 / 80
+
+Effect: Physical Defense + 8000 (+ 8000), Magic Defense + 8000 (+ 8000), Constitution + 500
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Dragon Protection] has the True Dragon Protection on the surface of the body. Defense + 30%. After being attacked, there is an 80% chance of forming a defensive shield. Tenacity: 30,000 points. Cooldown: 10 seconds!
+
+Additional Skill: [Holy Dragon Protection] consumes 3,000 mana points and reduces 90% of physical magic damage. Duration: 30 seconds. Cooldown: 10 minutes!
+
+Additional Skill: [Holy Dragon Protection] consumes 5000 Mana Points to counteract the incoming physical magical damage. Cooldown: 30 minutes!
+
+Endowment: [Giant Gate Divine Protection] Giant Gate, one of the Nine Lights. Divine Protection effect: + 100% Defense (including physical and magic defense). When illuminated by starlight, the effect is doubled. When illuminated by the Giant Gate Star, the effect is increased by ten times!
+
+Introduction: Sacred Dragon, Sacred Dragon. Originally a member of the Light Dragon Clan, because he was unable to save his companions, he was reduced to a Blood Dragon in despair. From then on, he used light to redeem himself and blood to slaughter enemies. He led the Dragon Clan to defeat countless races and wars, establishing the Dragon Clan's position as the overlord of the world. He was the third Dragon Emperor of the Dragon Clan and was known as the Sacred Emperor by the Dragon Clan. He was known as the Sacred Emperor! The weapon condensed from his life's battles, even though his True Spirit did not exist because of his death and its power was greatly reduced, it was still a sacred item of the Dragon Clan. Wearing it, one could not be a hero or supreme being of the Dragon Clan!
+
+[Glass Robe (+ 10)]
+
+Grade: Legendary
+
+Requirement: Level 40
+
+Durability: 60 / 60
+
+Effect: Physical Defense + 3000 (+ 3200), Magic Defense + 3000 (+ 3200), Constitution + 300
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Glazed Titan], Indestructible Body, increases Defense by 50%. When attacked, there is a chance for Glazed Titan Body to reduce damage by 80%!
+
+Additional Skill: [Glazed Golden Body] consumes 10,000 Mana Points, grants absolute defense, reduces 100% damage, lasts for 10 seconds! Cooldown: 1 hour!
+
+Additional Skill: [Forbidden Curse Glazed Titan] consumes 20,000 Mana Points. Summons the power of Vajra from the Dao Sect to strengthen the body. Health Points recovery speed + 20% / second, Mana Recovery speed + 20% / second, Defense + 500%, immunity to all DEBUFFs, lasts for 1 minute! Cooldown time: 7 days!
+
+Endowment: [Corner Constellation Wood Spirit] Corner Constellation, Corner Wood Dragon, one of the twenty-eight Lunar Mansions. It belongs to the Seven Constellations of the East. Wood Spirit Effect: When you are attacked, your Health Points will drop by more than 50%. There is a 50% chance (it will remain unchanged and will not be affected by any factors) to recover to its peak!
+
+Introduction: Legend has it that the Daoist robe is made of glass from outer space. It has the support of 49 types of formations. Its defense is extremely shocking. It is invulnerable to swords and spears, impervious to fire and water, impervious to all poisons. It has evolved due to an unknown reason. It has awakened the power of Vajra and activated a forbidden spell. It has evolved into a legendary armor!
+
+Helmet—
+
+[Holy Dragon Crown (+ 10)]
+
+Grade: Legendary
+
+Requirement: Warrior
+
+Durability: 50 / 50
+
+Effect: Physical Defense + 5000 (+ 8000), Magic Defense + 2000 (+ 8000), Constitution + 300, Strength + 200
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Dragon's Eye] increases vision by 1000 meters, greatly enhancing vision (possesses night vision and other abilities).
+
+Additional Skill: [Holy Dragon Deterrence] consumes 5000 mana points. When used on a single target, it can cause an existence no higher than the Holy Dragon Crown (Legendary) to be forced into a three-second stun state! Cooldown: 5 minutes!
+
+Introduction: Sacred Dragon, Sacred Dragon. Originally a member of the Light Dragon Clan, because he was unable to save his companions, he was reduced to a Blood Dragon in despair. From then on, he used light to redeem himself and blood to slaughter enemies. He led the Dragon Clan to defeat countless races and wars, establishing the Dragon Clan's position as the overlord of the world. He was the third Dragon Emperor of the Dragon Clan and was known as the Sacred Emperor by the Dragon Clan. He was known as the Sacred Emperor! The weapon condensed from his life's battles, even though his True Spirit did not exist because of his death and its power was greatly reduced, it was still a sacred item of the Dragon Clan. Wearing it, one could not be a hero or supreme being of the Dragon Clan!
+
+Handguard—
+
+[Saint Dragon God's Hand (+ 10)]
+
+Grade: Legendary
+
+Requirement: Warrior
+
+Durability: 50 / 50
+
+Effect: Physical Defense + 3000 (+ 8000), Magic Defense + 1500 (+ 8000), Strength + 200, Constitution + 150
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Dragon Scale] greatly increases the flexibility of the wrist and strength of the arm. Increases a certain amount of control ability.
+
+Additional Skill: [Holy Dragon Rage] consumes 5000 mana points. After activation, attack speed + 100%! Duration: 30 seconds. Cooldown: 5 minutes!
+
+Introduction: Sacred Dragon, Sacred Dragon. Originally a member of the Light Dragon Clan, because he was unable to save his companions, he was reduced to a Blood Dragon in despair. From then on, he used light to redeem himself and blood to slaughter enemies. He led the Dragon Clan to defeat countless races and wars, establishing the Dragon Clan's position as the overlord of the world. He was the third Dragon Emperor of the Dragon Clan and was known as the Sacred Emperor by the Dragon Clan. He was known as the Sacred Emperor! The weapon condensed from his life's battles, even though his True Spirit did not exist because of his death and its power was greatly reduced, it was still a sacred item of the Dragon Clan. Wearing it, one could not be a hero or supreme being of the Dragon Clan!
+
+Boots—
+
+[Holy Dragon God Boots (+ 10)]
+
+Grade: Legendary
+
+Requirement: Warrior
+
+Durability: 50 / 50
+
+Effect: Physical Defense + 4000 (+ 8000), Magic Defense + 2500 (+ 8000), Constitution + 200, Agility + 300
+
+Enhancement Reward: + 80% Physical Defense (This condition is limited to increasing the defense of the armor), + 10 to Enhancement: Increase 30% Defense!
+
+Special Effect: [Dragon Shadow] Movement Speed + 80%.
+
+Additional Skill: [Holy Dragon's Shadow Steps] consumes 5,000 mana points, + 300% Movement Speed, and greatly increases physical agility. While moving, one can perform extremely difficult body movements! Duration: 1 minute, Cooldown: 5 minutes!
+
+Introduction: Sacred Dragon, Sacred Dragon. Originally a member of the Light Dragon Clan, because he was unable to save his companions, he was reduced to a Blood Dragon in despair. From then on, he used light to redeem himself and blood to slaughter enemies. He led the Dragon Clan to defeat countless races and wars, establishing the Dragon Clan's position as the overlord of the world. He was the third Dragon Emperor of the Dragon Clan and was known as the Sacred Emperor by the Dragon Clan. He was known as the Sacred Emperor! The weapon condensed from his life's battles, even though his True Spirit did not exist because of his death and its power was greatly reduced, it was still a sacred item of the Dragon Clan. Wearing it, one could not be a hero or supreme being of the Dragon Clan!
